@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rohman Beny</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Rohman Beny -->
+<!-- ## 👋 &nbsp;Hey there! I'm Rohman Beny Riyanto -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -13,7 +13,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at rendyasw@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="QR Code email" src="![image](https://user-images.githubusercontent.com/72520643/127586710-5d345bfc-b6ec-4b39-8317-5f4133c9f223.png)" align="right"/>
+<img alt="QR Code email" src="![image](https://github.com/RohmanBenyRiyanto/Beny/blob/master/assets/QR%20Code%20email.png?raw=true)" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
